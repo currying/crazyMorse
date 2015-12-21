@@ -1,0 +1,103 @@
+<dict>
+  <key>Transmitter</key>
+  <string>发报员</string>
+  <key>TransmitterMode</key>
+  <string>发报员模式</string>
+  <key>Listener</key>
+  <string>听风者</string>
+  <key>ListenerMode</key>
+  <string>听风者模式</string>
+  <key>Leisure</key>
+  <string>休闲者</string>
+  <key>LeisureMode</key>
+  <string>休闲模式</string>
+  <key>MorseCode</key>
+  <string>摩斯电码</string>
+  <key>Dict</key>
+  <string>字典</string>
+  <key>zh_CN</key>
+  <string>中文</string>
+  <key>zh_TW</key>
+  <string>繁体中文</string>
+  <key>en</key>
+  <string>英文</string>
+  <key>delete</key>
+  <string>删除</string> 
+  <key>insert</key>
+  <string>新增</string>   
+  <key>modify</key>
+  <string>修改</string>
+  <key>Play</key>
+  <string>开始游戏</string>
+  <key>SelectIdentity</key>
+  <string>选择你的身份</string>
+  <key>SelectLanguage</key>
+  <string>选择词汇显示语言</string>
+  <key>SelectLevel</key>
+  <string>选择难度</string>
+  <key>Start</key>
+  <string>开始</string>
+  <key>Level</key>
+  <string>难度</string>
+  <key>one</key>
+  <string>一级</string>
+  <key>two</key>
+  <string>二级</string>
+  <key>three</key>
+  <string>三级</string>
+  <key>four</key>
+  <string>四级</string>
+  <key>five</key>
+  <string>五级</string>
+  <key>six</key>
+  <string>超级</string>
+  <key>flash</key>
+  <string>闪光灯</string>
+  <key>sms</key>
+  <string>短信</string>
+  <key>share</key>
+  <string>分享</string>
+  <key>BackMenu</key>
+  <string>返回菜单</string>
+  <key>Back</key>
+  <string>返回</string>
+  <key>BaseScore</key>
+  <string>基础分数: </string>
+  <key>SumTime</key>
+  <string>总时间: </string>
+  <key>FinishTime</key>
+  <string>完成时间: </string>
+  <key>SumTimes</key>
+  <string>总字符数: </string>
+  <key>ErrorTimes</key>
+  <string>错打: </string>
+  <key>MissTimes</key>
+  <string>漏打: </string>
+  <key>RCR</key>
+  <string>快速完成率: </string>
+  <key>ER</key>
+  <string>错误率: </string>
+  <key>MR</key>
+  <string>失误率: </string>
+  <key>CS</key>
+  <string>综合评分: </string>
+  <key>HOTMH</key>
+  <string>历史最高分: </string>
+
+  <key>CommonFunctions</key>
+  <string>小工具</string>
+  <key>Exit</key>
+  <string>退出</string>
+  <key>Share</key>
+  <string>我的分享</string>
+  <key>ShareContent</key>
+  <string>来看看，沉默的疯狂！求超越，求打败！@疯狂摩斯 -> http://www.wandoujia.com/apps/com.toparchy.cm </string>
+  <key>second</key>
+  <string>秒</string>
+  <key>ShowOff</key>
+  <string>炫一下</string>
+  <key>highest</key>
+  <string>最好成绩：</string>
+  <key>Praise</key>
+  <string>赞一下</string>
+</dict>

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\层设计">
+      <UniqueIdentifier>{99aa2591-0a57-4004-8a6e-92788270b71a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计">
+      <UniqueIdentifier>{bf1a73ba-991b-44de-97e9-845f8a3fef54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\对象设计">
+      <UniqueIdentifier>{a658e38e-3329-45a1-82d9-d1b5b324732f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\资源定义">
+      <UniqueIdentifier>{cce6e1ce-e563-4e70-a36f-d469a71160a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\广告定义">
+      <UniqueIdentifier>{bdd767d3-ef09-4229-83e1-1d89eca5aa7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\层设计\信号按钮层">
+      <UniqueIdentifier>{df5c6aaf-9a35-4748-89e7-91e641042a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\菜单">
+      <UniqueIdentifier>{2f4fb2ba-33ee-43d6-9f2f-30b35e0bca1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\电码本">
+      <UniqueIdentifier>{75dbe1c0-2dcc-4723-925c-1b806d941060}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\飞屏">
+      <UniqueIdentifier>{6bf57cb1-aacb-494f-9a73-dd7a10466db1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\全局配置">
+      <UniqueIdentifier>{3aec3d9d-7f5c-4871-b4b1-819c1a4f9ce9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景">
+      <UniqueIdentifier>{b9d28a82-5118-48a3-9dba-f2e0e860251d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏前配置">
+      <UniqueIdentifier>{00c39845-1e4f-4681-ae51-7063a66c46e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\字典索引">
+      <UniqueIdentifier>{ee3957fe-cc21-41c6-8585-c99e17238eb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\电码本\电码表">
+      <UniqueIdentifier>{338051c2-07b3-41a8-b6c2-575fb8a229b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\字典索引\字典">
+      <UniqueIdentifier>{4bd8c5b0-5530-45ab-8172-ce8f370474e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\发报员场景">
+      <UniqueIdentifier>{2b7f68ff-c690-49f0-bb12-51f67638ace3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\听风者场景">
+      <UniqueIdentifier>{149136a1-d938-48ba-b19b-4c7899343eab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\小工具">
+      <UniqueIdentifier>{f264b531-1979-4f48-bf55-b16f8898f67b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\休闲者模式">
+      <UniqueIdentifier>{2316b95c-8b7a-4b85-bf09-24bd305d586b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\发报员场景\词汇层">
+      <UniqueIdentifier>{6bcad714-c914-4698-b1fc-cdd7cef10ec1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\休闲者模式\词汇层">
+      <UniqueIdentifier>{d4714f2c-cd38-4faa-8291-d78a9c72015f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\小工具\短信">
+      <UniqueIdentifier>{214a2e82-8574-490d-9aae-8583df20b332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\小工具\分享">
+      <UniqueIdentifier>{4c2ae8e8-288c-4503-8803-09d50e2a3546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\场景设计\游戏场景\小工具\闪光灯">
+      <UniqueIdentifier>{58cdc511-7134-414c-a293-72d6206447b5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ScreenShot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\MenuScene.cpp">
+      <Filter>src\场景设计\菜单</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\MorseCode.cpp">
+      <Filter>src\场景设计\电码本\电码表</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\CodeBook.cpp">
+      <Filter>src\场景设计\电码本</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\LoadScene.cpp">
+      <Filter>src\场景设计\飞屏</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\GameOver.cpp">
+      <Filter>src\场景设计</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\DictList.cpp">
+      <Filter>src\场景设计\字典索引\字典</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\Dict.cpp">
+      <Filter>src\场景设计\字典索引</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\CustomPageView.cpp">
+      <Filter>src\场景设计\游戏前配置</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\GameConfigureScene.cpp">
+      <Filter>src\场景设计\游戏前配置</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\TransmitterMode.cpp">
+      <Filter>src\场景设计\游戏场景\发报员场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\DictLayer2.cpp">
+      <Filter>src\场景设计\游戏场景\发报员场景\词汇层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\DictLayer.cpp">
+      <Filter>src\场景设计\游戏场景\休闲者模式\词汇层</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\LeisureMode.cpp">
+      <Filter>src\场景设计\游戏场景\休闲者模式</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\GadgetScene.cpp">
+      <Filter>src\场景设计\游戏场景\小工具</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\SMSScene.cpp">
+      <Filter>src\场景设计\游戏场景\小工具\短信</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\ShareScene.cpp">
+      <Filter>src\场景设计\游戏场景\小工具\分享</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scenes\FlashScene.cpp">
+      <Filter>src\场景设计\游戏场景\小工具\闪光灯</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ScreenShot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\resources.h">
+      <Filter>src\资源定义</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\MenuScene.h">
+      <Filter>src\场景设计\菜单</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\MorseCode.h">
+      <Filter>src\场景设计\电码本\电码表</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\CodeBook.h">
+      <Filter>src\场景设计\电码本</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\LoadScene.h">
+      <Filter>src\场景设计\飞屏</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\GameOver.h">
+      <Filter>src\场景设计</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\DictList.h">
+      <Filter>src\场景设计\字典索引\字典</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\Dict.h">
+      <Filter>src\场景设计\字典索引</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\CustomPageView.h">
+      <Filter>src\场景设计\游戏前配置</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\GameConfigureScene.h">
+      <Filter>src\场景设计\游戏前配置</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\TransmitterMode.h">
+      <Filter>src\场景设计\游戏场景\发报员场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\DictLayer2.h">
+      <Filter>src\场景设计\游戏场景\发报员场景\词汇层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\DictLayer.h">
+      <Filter>src\场景设计\游戏场景\休闲者模式\词汇层</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\LeisureMode.h">
+      <Filter>src\场景设计\游戏场景\休闲者模式</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\GadgetScene.h">
+      <Filter>src\场景设计\游戏场景\小工具</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\SMSScene.h">
+      <Filter>src\场景设计\游戏场景\小工具\短信</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\ShareScene.h">
+      <Filter>src\场景设计\游戏场景\小工具\分享</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scenes\FlashScene.h">
+      <Filter>src\场景设计\游戏场景\小工具\闪光灯</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

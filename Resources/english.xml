@@ -1,0 +1,103 @@
+<dict>
+  <key>Transmitter</key>
+  <string>Transmitter</string>
+  <key>TransmitterMode</key>
+  <string>Transmitter Mode</string>
+  <key>Listener</key>
+  <string>Listener</string>
+  <key>ListenerMode</key>
+  <string>Listener Mode</string>
+  <key>Leisure</key>
+  <string>Leisure</string>
+  <key>LeisureMode</key>
+  <string>Leisure Mode</string>
+  <key>MorseCode</key>
+  <string>Morse Code</string>
+  <key>Dict</key>
+  <string>Dict</string>
+  <key>zh_CN</key>
+  <string>Chinese</string>
+  <key>zh_TW</key>
+  <string>Chinese (Taiwan)</string>
+  <key>en</key>
+  <string>English</string>
+  <key>delete</key>
+  <string>Delete</string> 
+  <key>insert</key>
+  <string>Insert</string>   
+  <key>modify</key>
+  <string>Modify</string>   
+  <key>Play</key>
+  <string>Play</string>
+  <key>SelectIdentity</key>
+  <string>Select your identity</string>
+  <key>SelectLanguage</key>
+  <string>Select the language</string>
+  <key>SelectLevel</key>
+  <string>Select game difficulty</string>
+  <key>Start</key>
+  <string>Start</string>
+  <key>Level</key>
+  <string>Level</string>
+  <key>one</key>
+  <string>1 level</string>
+  <key>two</key>
+  <string>2 level</string>
+  <key>three</key>
+  <string>3 level</string>
+  <key>four</key>
+  <string>4 level</string>
+  <key>five</key>
+  <string>5 level</string>
+  <key>six</key>
+  <string>Super</string>
+  <key>CommonFunctions</key>
+  <string>Gadget</string>
+  <key>flash</key>
+  <string>flashlight</string>
+  <key>sms</key>
+  <string>SMS</string>
+  <key>share</key>
+  <string>share</string>
+  <key>BackMenu</key>
+  <string>Back Menu</string>
+  <key>Back</key>
+  <string>Back</string>
+  <key>BaseScore</key>
+  <string>Base Score: </string>
+  <key>SumTime</key>
+  <string>Total Time: </string>
+  <key>FinishTime</key>
+  <string>Completion Time: </string>
+  <key>SumTimes</key>
+  <string>The total number of characters: </string>
+  <key>ErrorTimes</key>
+  <string>Wrong number of characters: </string>
+  <key>MissTimes</key>
+  <string>The missing number of characters: </string>
+  <key>RCR</key>
+  <string>Rapid completion rate: </string>
+  <key>ER</key>
+  <string>Error rate: </string>
+  <key>MR</key>
+  <string>Miss rate: </string>
+  <key>CS</key>
+  <string>Composite score: </string>
+  <key>HOTMH</key>
+  <string>History of the most high: </string>
+  
+  <key>Exit</key>
+  <string>Exit</string>
+  <key>Share</key>
+  <string>My share</string>
+  <key>ShareContent</key>
+  <string>To have a look, the silence of the crazy! Surpass, and beat! @Crazy Morse -> https://play.google.com/store/apps/details?id=com.toparchy.cm </string>
+  <key>second</key>
+  <string>seconds</string>
+  <key>ShowOff</key>
+  <string>Show off</string>
+  <key>highest</key>
+  <string>Highest: </string>
+  <key>Praise</key>
+  <string>Praise me</string>
+</dict>
